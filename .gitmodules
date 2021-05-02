@@ -1,0 +1,3 @@
+[submodule "kurakura-game"]
+	path = kurakura-game
+	url = https://github.com/sophiaxuu/kurakura-game
